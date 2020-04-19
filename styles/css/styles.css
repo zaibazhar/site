@@ -7797,7 +7797,7 @@ html, body {
   cursor: pointer; }
 
 .home-section, .history {
-  background: url("/images/top-bg.jpg") no-repeat center;
+  background: url("https://zaibazhar.github.io/site/images/top-bg.jpg") no-repeat center;
   background-size: cover;
   width: 100%;
   height: 100%; }
@@ -7843,7 +7843,7 @@ html, body {
           left: 0; } }
 
 .history {
-  background: url("/images/history.jpg") no-repeat center;
+  background: url("https://zaibazhar.github.io/site/images/history.jpg") no-repeat center;
   background-size: 100% 100%; }
 
 .numbering {
@@ -7904,11 +7904,11 @@ html, body {
 
 .mountain1, .mountain2 {
   min-height: 545px;
-  background: url("../../images/tab1.jpg") no-repeat center;
+  background: url("https://zaibazhar.github.io/site/images/tab1.jpg") no-repeat center;
   background-size: cover; }
 
 .mountain2 {
-  background: url("../../images/tab2.jpg") no-repeat center; }
+  background: url("https://zaibazhar.github.io/site/images/tab2.jpg") no-repeat center; }
 
 .schedule-card {
   margin-top: 7em;
